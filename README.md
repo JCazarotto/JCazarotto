@@ -1,4 +1,5 @@
 <h1>Olá eu sou o Jean, seja bem-vind@!</h1>
+<br>
 
 - 👀 Entusiasta por data scince e analytics
 - 🌱 Atualemente estou estudando Python e R
