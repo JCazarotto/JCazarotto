@@ -30,9 +30,7 @@
   <a href="https://www.kaggle.com/jeancazarotto/code" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>     
 </div>
 <br>
-<br>
-<br>
-<br>      
+<br>     
 <div id="jogo-cobra">
     
    ![Snake animation](https://github.com/JCazarotto/JCazarotto/blob/output/github-contribution-grid-snake.svg)      
