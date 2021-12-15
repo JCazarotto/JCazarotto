@@ -5,11 +5,10 @@
 - 🌱 Atualemente estou estudando Python e R
 - ☕ Espero poder contribuir com a comunidade
 <br>
-<br>
 <div align="center">
   <a href="https://github.com/JCazarotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCazarotto&show_icons=true&hide_border=1&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCazarotto&hide_border=1&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=JCazarotto&show_icons=true&hide_border=1&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCazarotto&hide_border=1&layout=compact&langs_count=8&theme=vue-dark"/>
 </div>
 <br>
 <br>
