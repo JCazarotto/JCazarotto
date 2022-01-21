@@ -17,6 +17,7 @@
   <img align="center" id="r" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" id="pbi" alt="PBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg">
   <img align="center" id="sqlserver" alt="SQLServer" height="32" width="36" src="https://img.icons8.com/color/480/000000/microsoft-sql-server.png"/>
+  <img align="center" id="sqlserver" alt="Git" height="32" width="36" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
   <img align="right" alt="Cofee" height="150" style="border-radius:50px;" src="https://img.icons8.com/carbon-copy/100/26e07f/cafe.png?width=676&height=676">
 </div>  
   
