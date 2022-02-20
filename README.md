@@ -2,7 +2,7 @@
 <br>
 
 - 👀 Entusiasta por data scince e analytics
-- 🌱 Atualemente estou estudando Python e R
+- 🌱 Atualmente estou estudando Python e R
 - ☕ Espero poder contribuir com a comunidade
 <br>
 <div align="center">
